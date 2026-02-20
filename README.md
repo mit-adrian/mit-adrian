@@ -1,7 +1,7 @@
 # Hi there 👋 I’m Adrian Karlo Siangco
 
 🚀 **Freelance Full-Stack Web Developer**  
-🎓 **Master’s Student in Information Technology (Cybersecurity Focus)**
+🎓 **Master’s Student in Information Technology (Software Development & Cybersecurity Focus)**
 
 I build **secure, scalable, and production-ready web applications** — combining modern full-stack development with strong foundations in **security, data integrity, and system architecture**.
 
