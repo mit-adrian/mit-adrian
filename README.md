@@ -66,5 +66,8 @@ I blend **web development and cybersecurity** to build systems that are not just
 
 ---
 
-### 🚀 Open for Freelance & Part-Time Work
-📌 Web Applications • Admin Dashboards • APIs • Secure Systems
+### 🚀 Open for Freelance → Full-Time | Part-Time Work | Gig
+📌 Web Applications 
+📌 Admin Dashboards 
+📌 APIs 
+📌 Secure Systems
