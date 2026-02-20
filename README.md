@@ -45,14 +45,14 @@ I build **secure, scalable, and production-ready web applications** — combinin
 **Frontend:** React, Next.js, Tailwind CSS  
 **Database:** PostgreSQL, MySQL  
 **Auth & Security:** RBAC, JWT, Secure API Design  
-**Tools:** Git, GitHub, VS Code, Linux, Docker (basic)
+**Tools:** Git, GitHub, VS Code, Linux, Docker 
 
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: **your-email-here**
-- 🌐 Portfolio: **your-portfolio-link**
-- 💼 LinkedIn: **your-linkedin-link**
+- 📧 Email: mailto:appdev.adrian@gmail.com
+- 🌐 Portfolio: https://www.siangco.me/
+- 💼 LinkedIn: https://www.linkedin.com/in/adrian-karlo-siangco-4aa504281/
 
 ---
 
