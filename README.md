@@ -1,9 +1,26 @@
 # Hi there 👋 I’m Adrian Karlo Siangco
 
 🚀 **Freelance Full-Stack Web Developer**  
-🎓 **Master’s Student in Information Technology (Software Development & Cybersecurity Focus)**
+🎓 **Master’s Student in Information Technology (ongoing)
+─ research focus on permissioned blockchain-based information systems.
 
-I build **secure, scalable, and production-ready web applications** — combining modern full-stack development with strong foundations in **security, data integrity, and system architecture**.
+I build **secure, scalable, and production-ready web applications** — combining modern full-stack development with strong foundations in **access controls, data integrity and system architecture.**.
+
+🏁 Cagayan de Oro, Philippines (GMT+8) • Open to remote work across time zones
+
+---
+
+## 🌟 Featured Projects
+
+
+| Project | What it shows | Links |
+| --------- | --------- | --------- |
+| Blockchain Document Archival System | b | c |
+| Chauffeur Booking Management System | b | c |
+| Website Revamp + Interactive Scoreboard | b | c |
+| HustleHard Pet Store | b | c |
+
+
 
 ---
 
