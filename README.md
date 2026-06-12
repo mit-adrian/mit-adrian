@@ -57,7 +57,7 @@ I build **secure, scalable, and production-ready web applications** — combinin
 ---
 
 ## 🛠️ Tech Stack
-**Backend:** Django, Django REST Framework, Node.js  
+**Backend:** Django, Django REST Framework, Node.js (Express)  
 **Frontend:** React, Next.js, Tailwind CSS  
 **Database:** PostgreSQL, MySQL, MongoDB
 **Auth & Security:** RBAC, JWT, Secure API Design  
