@@ -17,8 +17,8 @@ I build **secure, scalable, and production-ready web applications** — combinin
 | --------- | --------- | --------- |
 | Blockchain Document Archival System | Permissioned Hyperledger Fabric network (3 rogs) + private IPFS swarm, RBAC enforced at chaincode/API/UI, governance-aware approval workflow, Redis cross-node sessions | Showcase repor coming soon. |
 | Chauffeur Booking Management System | React + TypeScript booking portal, Google Maps Places & Directions integration, returning-customer phone recognition | [Live Demo](https://booking-management-system-blue.vercel.app/) • [Repository](https://github.com/mit-adrian/booking-management-system.git) |
-| Website Revamp + Interactive Scoreboard | Conversion-focused rebuild with conditional result logic driving newsletter signups | Live Demo • Repository |
-| HustleHard Pet Store (pro bono) | Component-driven storefront for a local retail business, structured of future cart/checkout | Live Demo • Repository |
+| Website Revamp + Interactive Scoreboard | Conversion-focused rebuild with conditional result logic driving newsletter signups | [Live Demo](https://quick-revamp-and-sample-scorecard.vercel.app/) • [Repository](https://github.com/mit-adrian/quick-revamp-and-sample-scorecard.git) |
+| HustleHard Pet Store (pro bono) | Component-driven storefront for a local retail business, structured of future cart/checkout | [Live Demo](https://hustlehard-frontend.vercel.app/) • Repository (private) |
 
 
 
