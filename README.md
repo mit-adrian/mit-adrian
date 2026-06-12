@@ -17,7 +17,7 @@ I build **secure, scalable, and production-ready web applications** — combinin
 | --------- | --------- | --------- |
 | Blockchain Document Archival System | Permissioned Hyperledger Fabric network (3 rogs) + private IPFS swarm, RBAC enforced at chaincode/API/UI, governance-aware approval workflow, Redis cross-node sessions | Showcase repor coming soon. |
 | Chauffeur Booking Management System | React + TypeScript booking portal, Google Maps Places & Directions integration, returning-customer phone recognition | Live Demo • Repository |
-| Website Revamp + Interactive Scoreboard | Conversion-focused rebuild with conditional result logic driving newsletter signups | Live Demo "|" Repository |
+| Website Revamp + Interactive Scoreboard | Conversion-focused rebuild with conditional result logic driving newsletter signups | Live Demo • Repository |
 | HustleHard Pet Store (pro bono) | Component-driven storefront for a local retail business, structured of future cart/checkout | Live Demo • Repository |
 
 
@@ -28,18 +28,17 @@ I build **secure, scalable, and production-ready web applications** — combinin
 - Full-stack web apps using **Django, Django REST Framework, React, Next.js, and PostgreSQL**
 - Admin dashboards with **role-based access control (RBAC)**
 - API-driven systems with authentication, authorization, and audit logging
-- Academic & applied projects focused on **secure digital systems**
+- Master's thesis: a **governance-aware hybrid blockchain framework** for academic record integrity
 
 ---
 
 ## 🌱 What I’m Currently Learning
-- Advanced **Cybersecurity**, **Network Security**, and **Ethical Hacking**
-- Secure system design, data integrity, and auditability
+- Secure system design, data integrity, and auditability (alongside my graduate coursework)
 - Applying **security principles** to real-world web applications
 
 ---
 
-## 👯 Open to Collaborations
+## 👯 Open to
 - Web applications & SaaS platforms
 - Admin panels & internal tools
 - Security-focused systems (authentication, permissions, logging)
@@ -60,9 +59,9 @@ I build **secure, scalable, and production-ready web applications** — combinin
 ## 🛠️ Tech Stack
 **Backend:** Django, Django REST Framework, Node.js  
 **Frontend:** React, Next.js, Tailwind CSS  
-**Database:** PostgreSQL, MySQL  
+**Database:** PostgreSQL, MySQL, MongoDB
 **Auth & Security:** RBAC, JWT, Secure API Design  
-**Tools:** Git, GitHub, VS Code, Linux, Docker 
+**Tools:** Git, GitHub, VS Code, Linux, Docker, Postman, Figma
 
 ---
 
