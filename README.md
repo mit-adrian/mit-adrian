@@ -66,9 +66,8 @@ I build **secure, scalable, and production-ready web applications** — combinin
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: mailto:appdev.adrian@gmail.com
-- 🌐 Portfolio: https://www.siangco.me/
-- 💼 LinkedIn: https://www.linkedin.com/in/adrian-karlo-siangco-4aa504281/
+- 📧 Email: [appdev.adrian@gmail.com](mailto:appdev.adrian@gmail.com)
+- 💼 LinkedIn: [Lets Connect](https://www.linkedin.com/in/adrian-karlo-siangco-4aa504281/)
 
 ---
 
