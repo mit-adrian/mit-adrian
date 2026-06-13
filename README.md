@@ -1,8 +1,7 @@
-# Hi there 👋 I’m Adrian Karlo Siangco
-
-🚀 **Freelance Full-Stack Web Developer**  
+# Hi there 👋 
+**I’m Adrian Karlo Siangco** a
+🚀 **Freelance Full-Stack Web Developer** with
 🎓 **Master’s Student in Information Technology** (ongoing)
-─ research focus on permissioned blockchain-based information systems.
 
 I build **secure, scalable, and production-ready web applications** — combining modern full-stack development with strong foundations in **access controls, data integrity and system architecture.**.
 
