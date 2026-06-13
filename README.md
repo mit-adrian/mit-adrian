@@ -104,10 +104,6 @@ the insight, go back to where I was stuck, and close the bug. 🎯
 
 ---
 
-😄 He / Him
-
----
-
 ### 🚀 Open for Freelance · Full-Time · Part-Time · Gig
 
 📌 Web Applications · 📌 Admin Dashboards · 📌 APIs · 📌 Secure Systems · 📌 SaaS Platforms
