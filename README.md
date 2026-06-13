@@ -93,7 +93,6 @@ or a full sprint back to the laptop. Document the insight, go back to where I wa
 ## 📫 Let's Connect
 
 - 📧 [appdev.adrian@gmail.com](mailto:appdev.adrian@gmail.com)
-- 🌐 [siangco.me](https://www.siangco.me/)
 - 💼 [Let's Connect on LinkedIn](https://www.linkedin.com/in/adrian-karlo-siangco-4aa504281/)
 
 😄 He / Him
