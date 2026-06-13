@@ -102,6 +102,8 @@ the insight, go back to where I was stuck, and close the bug. 🎯
 - 📧 [appdev.adrian@gmail.com](mailto:appdev.adrian@gmail.com)
 - 💼 [Let's Connect on LinkedIn](https://www.linkedin.com/in/adrian-karlo-siangco-4aa504281/)
 
+---
+
 😄 He / Him
 
 ---
