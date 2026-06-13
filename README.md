@@ -104,6 +104,14 @@ the insight, go back to where I was stuck, and close the bug. 🎯
 
 ---
 
-### 🚀 Open for Freelance · Full-Time · Part-Time · Gig
+### 🚀 Open for Freelance | Full-Time | Part-Time | Gig |
 
-📌 Web Applications · 📌 Admin Dashboards · 📌 APIs · 📌 Secure Systems · 📌 SaaS Platforms
+📌 Custom Web Applications  
+📌 REST API Development
+📌 Admin Dashboard & Internal Tools
+📌 Role-Based Access Control Systems
+📌 Third-Party API Integration (Maps, Payments, Auth)
+📌 Progressive Web App (PWA)
+📌 SaaS Platforms
+📌 Database Design & Modeling
+📌 Research-Driven & Secure Systems
