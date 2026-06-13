@@ -70,8 +70,8 @@ the problem. I was. 🤣
 
 Learning it the hard way — forcing focus past the breaking point just burns
 time. <br> Now when I'm stuck, I document where I am, step away, and shift to
-something else <br>within the same project ─ write the docs, clean up another,
-clean up another component, <br>plan the next feature, or review what's already shipped.
+something else <br>within the same project ─ write the docs, clean up another component, 
+<br>plan the next feature, or review what's already shipped.
 <br><br>The beauty of solo dev: there's always another corner of the project worth working on.
 <br>Nothing blocks you ─ you just rotate.
 
