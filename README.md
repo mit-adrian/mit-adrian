@@ -11,16 +11,16 @@
 
 ## 🌟 Featured Projects
 
-| Project | What it shows | Links |
-| --- | --- | --- |
-| Blockchain Document Archival System | Permissioned Hyperledger Fabric network (3 orgs) + private IPFS swarm, RBAC enforced at chaincode/API/UI, governance-aware approval workflow, Redis cross-node sessions | Private |
-| Chauffeur Booking Management System | React + TypeScript PWA booking portal, Google Maps Places & Directions integration, returning-customer phone recognition | [Live Demo](https://booking-management-system-blue.vercel.app/) · [Repo](https://github.com/mit-adrian/booking-management-system) |
-| Website Revamp + Interactive Scorecard | Conversion-focused rebuild with conditional result logic driving newsletter signups | [Live Demo](https://quick-revamp-and-sample-scorecard.vercel.app/) · [Repo](https://github.com/mit-adrian/quick-revamp-and-sample-scorecard) |
-| HustleHard Pet Store (pro bono) | Component-driven storefront for a local retail business, structured for future cart/checkout | [Live Demo](https://hustlehard-frontend.vercel.app/) |
+| Project w/ Repo | What it shows | Demo |
+| -- | --- | --- |
+| Blockchain Document <br>Archival System | Permissioned Hyperledger Fabric network (3 orgs) + private IPFS swarm, <br>RBAC enforced at chaincode/API/UI, governance-aware approval workflow, Redis cross-node sessions | <em>Ongoing</em> |
+| [Chauffeur Booking <br>Management System](https://github.com/mit-adrian/booking-management-system) | React + TypeScript PWA booking portal, <br>Google Maps Places & Directions integration, <br>returning-customer phone recognition | [Website Link](https://booking-management-system-blue.vercel.app/) |
+| [Website Revamp + Interactive Scorecard](https://github.com/mit-adrian/quick-revamp-and-sample-scorecard) | Conversion-focused rebuild with conditional result logic <br>driving newsletter signups | [Website Link](https://quick-revamp-and-sample-scorecard.vercel.app/) |
+| HustleHard Pet Store <br>(pro bono) | Component-driven storefront for a local retail business, structured for future cart/checkout | [Website Link](https://hustlehard-frontend.vercel.app/) |
 
 ---
 
-## ⛑️ → 💻 How I Work
+## ⛑️ → 💻 How I Take On Any Project
 
 I apply structured methodologies on a case-by-case basis depending on the nature of the project.
 
@@ -36,18 +36,18 @@ Both methodologies share a common principle I carry into every project: **build 
 
 ---
 
-## 🛠️ Tech Stack & Techniques
+## 🛠️ Some of the Tech Stack & Techniques That I Usually Used
 
 | Phase | Tools & Technologies | Techniques |
 | --- | --- | --- |
 | **Planning & Design** | Figma, Git (branching strategy) | Wireframing, user flow mapping, SDLC planning, DSR (for research) |
 | **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, PWA | Component-driven development, mobile-first responsive design, code splitting, lazy loading |
 | **Backend** | Django REST Framework, Node.js (Express), REST API design | REST API design, RBAC, JWT auth, audit logging, input validation & sanitization |
+| **BaaS** | Supabase (PostgreSQL, Auth, Storage, Realtime) | Serverless backend integration, managed auth flows |
 | **Database** | PostgreSQL, MySQL, MongoDB | Schema design, relational modeling, indexing, migration strategies |
-| **Auth & Security** | RBAC, JWT, secure API design, audit logging | Principle of least privilege, environment-based secrets, secure headers, OWASP awareness |
+| **Auth & Security** | RBAC, JWT, secure API design, audit logging | Principle of least privilege, RLS (Row Level Security), environment-based secrets, secure headers, OWASP awareness |
 | **DevOps & Deployment** | Docker, Vercel, Render, VPS, Nginx, domain & DNS, SSL/TLS | Blue-green deployment, CI/CD pipelines, zero-downtime releases, SSL/TLS config |
 | **Testing & Tools** | Postman, ESLint, Git & GitHub, VS Code, Linux | API endpoint testing, branching workflow (feature → dev → main), code linting |
-| **Familiar With** | Laravel, WordPress | — |
 
 ---
 
@@ -65,17 +65,24 @@ The freedom to work from anywhere and the income potential don't hurt either. �
 
 ## ⚡ Fun Fact
 
-I used to grind through bugs for hours — until I realized the bug wasn't the problem. I was. 🤣
+I used to grind through bugs for hours — until I realized the bug wasn't
+the problem. I was. 🤣
 
-Learning it the hard way — forcing focus past the breaking point just burns time.
-Now when I'm stuck, I document where I am, step away, and shift to something else entirely.
+Learning it the hard way — forcing focus past the breaking point just burns
+time. <br> Now when I'm stuck, I document where I am, step away, and shift to
+something else <br>within the same project ─ write the docs, clean up another,
+clean up another component, <br>plan the next feature, or review what's already shipped.
+<br><br>The beauty of solo dev: there's always another corner of the project worth working on.
+<br>Nothing blocks you ─ you just rotate.
 
 Turns out stepping away *is* the work. Science calls it *diffuse thinking*.
+```
 I just call it getting up from the chair to poop 🚽 — you'll be surprised,
 the answer usually pops up uninvited.
-
-And when the "Aha!" hits ─ I write it down anywhere I can. A piece of paper, a random message to my wife,
-or a full sprint back to the laptop. Document the insight, go back to where I was stuck, and close the bug. 🎯
+```
+And when it does — I write it down anywhere I can. <br>A piece of paper, a
+random message to my wife, or a full sprint back to the laptop. <br><br>Document
+the insight, go back to where I was stuck, and close the bug. 🎯
 
 ---
 
