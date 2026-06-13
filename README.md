@@ -75,7 +75,8 @@ something else <br>within the same project ─ write the docs, clean up another 
 <br><br>The beauty of solo dev: there's always another corner of the project worth working on.
 <br>Nothing blocks you ─ you just rotate.
 
-Turns out stepping away *is* the work. Science calls it *diffuse thinking*.
+And while I'm there, the stuck part quietly solves itself. <br>Science calls it *diffuse thinking*
+─ your brain keeps working the problem in the background <br>while you've moved on.
 ```
 I just call it getting up from the chair to poop 🚽 — you'll be surprised,
 the answer usually pops up uninvited.
