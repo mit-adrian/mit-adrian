@@ -111,13 +111,13 @@ the insight, go back to where I was stuck, and close the bug. 🎯
 
 ### 🚀 Open for Freelance | Full-Time | Part-Time | Gig |
 
-📌 Custom Web Applications  
-📌 REST API Development
-📌 Admin Dashboard & Internal Tools
-📌 Role-Based Access Control Systems
-📌 Third-Party API Integration (Maps, Payments, Auth)
-📌 Progressive Web App (PWA)
-📌 SaaS Platforms
-📌 Database Design & Modeling
-📌 Research-Driven & Secure Systems
-📌 Data Mining & Pattern Analysis
+📌 Custom Web Applications  <br>
+📌 REST API Development <br>
+📌 Admin Dashboard & Internal Tools <br>
+📌 Role-Based Access Control Systems <br>
+📌 Third-Party API Integration (Maps, Payments, Auth) <br>
+📌 Progressive Web App (PWA) <br>
+📌 SaaS Platforms <br>
+📌 Database Design & Modeling <br>
+📌 Research-Driven & Secure Systems <br>
+📌 Data Mining & Pattern Analysis <br>
