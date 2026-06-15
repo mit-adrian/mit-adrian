@@ -2,7 +2,7 @@
 
 **I'm Adrian Karlo Siangco** —
 - 🚀 **Freelance Full-Stack Web Developer**
-- 🎓 **Master of Information Technology** *(ongoing — capstone defense)*
+- 🎓 **Master of Information Technology** *(ongoing — final semester thesis)*
 - 🎓 **Bachelor of Science in Information Technology**
 
 🇵🇭 Cagayan de Oro, Philippines (GMT+8) · Open to remote work across 🌐 time zones
@@ -17,6 +17,7 @@
 | [Chauffeur Booking <br>Management System](https://github.com/mit-adrian/booking-management-system) | React + TypeScript PWA booking portal, <br>Google Maps Places & Directions integration, <br>returning-customer phone recognition | [Website Link](https://booking-management-system-blue.vercel.app/) |
 | [Website Revamp + Interactive Scorecard](https://github.com/mit-adrian/quick-revamp-and-sample-scorecard) | Conversion-focused rebuild with conditional result logic <br>driving newsletter signups | [Website Link](https://quick-revamp-and-sample-scorecard.vercel.app/) |
 | HustleHard Pet Store <br>(pro bono) | Component-driven storefront for a local retail business, structured for future cart/checkout | [Website Link](https://hustlehard-frontend.vercel.app/) |
+| [ApprioApp — Association Rule Mining Tool](https://github.com/mit-adrian/ApprioApp) | Web-based Apriori algorithm implementation in Flask + Python, <br>configurable support/confidence thresholds, lift metrics visualization | [Website Link](https://apprioapp.onrender.com/) |
 
 ---
 
@@ -42,11 +43,12 @@ Both methodologies share a common principle I carry into every project: **build 
 | --- | --- | --- |
 | **Planning & Design** | Figma, Git (branching strategy) | Wireframing, user flow mapping, SDLC planning, DSR (for research) |
 | **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, PWA | Component-driven development, mobile-first responsive design, code splitting, lazy loading |
-| **Backend** | Django REST Framework, Node.js (Express), REST API design | REST API design, RBAC, JWT auth, audit logging, input validation & sanitization |
+| **Backend** | Django REST Framework, Node.js (Express), Flask, REST API design | REST API design, RBAC, JWT auth, audit logging, input validation & sanitization |
+| **Data & ML** | Python, Pandas, Flask | Apriori algorithm, association rule mining, support/confidence/lift metric computation, data-driven pattern discovery |
 | **BaaS** | Supabase (PostgreSQL, Auth, Storage, Realtime) | Serverless backend integration, managed auth flows |
 | **Database** | PostgreSQL, MySQL, MongoDB | Schema design, relational modeling, indexing, migration strategies |
 | **Auth & Security** | RBAC, JWT, secure API design, audit logging | Principle of least privilege, RLS (Row Level Security), environment-based secrets, secure headers, OWASP awareness |
-| **DevOps & Deployment** | Docker, Vercel, Render, VPS, Nginx, domain & DNS, SSL/TLS | Blue-green deployment, CI/CD pipelines, zero-downtime releases, SSL/TLS config |
+| **DevOps & Deployment** | Docker, GitHub Actions, Vercel, Render, VPS, Nginx, domain & DNS, SSL/TLS | Blue-green deployment, CI/CD pipelines, zero-downtime releases, SSL/TLS config |
 | **Testing & Tools** | Postman, ESLint, Git & GitHub, VS Code, Linux | API endpoint testing, branching workflow (feature → dev → main), code linting |
 
 ---
@@ -92,6 +94,8 @@ the insight, go back to where I was stuck, and close the bug. 🎯
 - Full-stack development (Backend + Frontend)
 - Django & Django REST Framework
 - React / Next.js
+- Flask & Python web apps
+- Association rule mining & Apriori algorithm
 - REST APIs & system architecture
 - PostgreSQL & database design
 - Secure authentication & access control
@@ -116,3 +120,4 @@ the insight, go back to where I was stuck, and close the bug. 🎯
 📌 SaaS Platforms
 📌 Database Design & Modeling
 📌 Research-Driven & Secure Systems
+📌 Data Mining & Pattern Analysis
